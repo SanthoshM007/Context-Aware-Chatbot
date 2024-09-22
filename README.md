@@ -6,16 +6,6 @@ Leveraging LangChain and Amazon Bedrock, we develop a context-enhanced chatbot u
 
 ------------------------------------------
 
-### Project Architecture
-![architecture](https://github.com/riteshhere/context-aware_chatbot/assets/39124014/ceba22b4-d789-4510-8b8b-67ad1fa397bb)
-
-------------------------------------------
-### Detailed Explanation
-
-For an in-depth guide on the implementation, please visit: [Medium Blog](https://medium.com/@xriteshsharmax/context-aware-chatbot-development-59d8c8731987)
-
-------------------------------------------
-
 ### How to run
 1. **Repository Cloning**: Clone the repository to initiate your local setup.
 2. **Virtual Environment**: Establish an isolated environment for dependency management
@@ -34,5 +24,4 @@ For an in-depth guide on the implementation, please visit: [Medium Blog](https:/
    ```
    aws configure
    ```
-   
 ------------------------------------------
